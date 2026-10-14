@@ -1,2 +1,5 @@
-# cs101-version-control
-print("HI")
+# My CS Profile
+
+## About Me
+- Name: Tan
+- Major: Computer Science
